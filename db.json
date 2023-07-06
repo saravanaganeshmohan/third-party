@@ -3,15 +3,27 @@
     {
       "id": 1,
       "userId": 1,
-      "description": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "documentLocation": "http://test.pdf"
+      "description": "Test",
+      "documentId": "cb3c8e39-fbb9-4ff3-bfb1-3b288e5b7eb8"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "description": "Test1",
+      "documentId": "cb3c8e39-fbb9-4ff3-bfb1-3b288e5b7eb8"
     }
   ],
   "comments": [
     {
       "id": 1,
       "postId": 1,
-      "comment": "id labore ex et quam laborum",
+      "comment": "test comment",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "comment": "test comment 1",
       "userId": 1
     }
   ]
