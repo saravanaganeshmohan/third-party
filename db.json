@@ -1,18 +1,19 @@
 {
   "posts": [
     {
-      "id": 1,
       "userId": 1,
-      "description": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "documentLocation": "http://test.txt"
+      "id": 1,
+      "title": "test",
+      "body": "test description"
     }
   ],
   "comments": [
     {
-      "id": 1,
       "postId": 1,
-      "comment": "id labore ex et quam laborum",
-      "userId": 1
+      "id": 1,
+      "name": "id labore ex et quam laborum",
+      "email": "Eliseo@gardner.biz",
+      "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
     }
   ]
 }
