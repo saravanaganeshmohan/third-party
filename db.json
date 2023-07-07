@@ -4,13 +4,13 @@
       "id": 1,
       "userId": 1,
       "description": "Test",
-      "documentId": "cb3c8e39-fbb9-4ff3-bfb1-3b288e5b7eb8"
+      "userDocumentId": "cb3c8e39-fbb9-4ff3-bfb1-3b288e5b7eb8"
     },
     {
       "id": 2,
       "userId": 1,
       "description": "Test1",
-      "documentId": "ad3c8e39-fbb9-4ff3-bfb1-3b288e5b7eb8"
+      "userDocumentId": "ad3c8e39-fbb9-4ff3-bfb1-3b288e5b7eb8"
     }
   ],
   "comments": [
